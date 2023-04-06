@@ -6,7 +6,7 @@
 
 XenZ Tools
 --------|
-![](https://github.com/Xenz404/deep-facebook/blob/main/data/Screenshot_20230328-185901.jpg)
+![](https://raw.githubusercontent.com/Xenz404/xenz-tools/main/data/123.jpg)
 
 #### Run
 ```python
