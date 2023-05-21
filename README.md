@@ -28,7 +28,7 @@ python Run.py
 ```python
 'Dilarang keras jual sc ini!!'
 'Sc ini dilindungi oleh puting PUAN!!'
-'Kalo mo dikembangin ya silakan tapi gausah dijual'
+
 ```
 
 
